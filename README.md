@@ -1,13 +1,14 @@
 # project_wine
 
 ## План 
-- **Шаг 1.** [Выбор темы](https://github.com/sashagrr/project_wine#%D0%B2%D1%8B%D0%B1%D0%BE%D1%80-%D1%82%D0%B5%D0%BC%D1%8B-%D0%B8-%D1%81%D0%B1%D0%BE%D1%80-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)
-- **Шаг 2.** Сбор данных
-- **Шаг 3.** Предварительная обработка данных
-- **Шаг 4.** Визуалиpация
-- **Шаг 5.** Создание новых переменных и обработка уже существующих
-- **Шаг 6.** Тестирование гипотиз 
-- **Шаг 7.** Машинное обучение
+- [**Шаг 1.** Выбор темы](https://github.com/sashagrr/project_wine#%D0%B2%D1%8B%D0%B1%D0%BE%D1%80-%D1%82%D0%B5%D0%BC%D1%8B-%D0%B8-%D1%81%D0%B1%D0%BE%D1%80-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)
+- [**Шаг 2.** Сбор данных]([ithub.com/sashagrr/project_wine#предварительная-обработка-данных](https://github.com/sashagrr/project_wine#%D0%BF%D1%80%D0%B5%D0%B4%D0%B2%D0%B0%D1%80%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F-%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85))
+- [**Шаг 3.** Предварительная обработка данных](https://github.com/sashagrr/project_wine#%D0%B2%D0%B8%D0%B7%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F)
+- [**Шаг 4.** Визуализция](https://github.com/sashagrr/project_wine#%D0%B2%D0%B8%D0%B7%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F)
+- [**Шаг 5.** Создание новых переменных и обработка уже существующих](https://github.com/sashagrr/project_wine#%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BD%D0%BE%D0%B2%D1%8B%D1%85-%D0%BF%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D1%85-%D0%B8-%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0-%D1%83%D0%B6%D0%B5-%D1%81%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D1%83%D1%8E%D1%89%D0%B8%D1%85)
+- [**Шаг 6.** Тестирование гипотиз](https://github.com/sashagrr/project_wine#%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B3%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%B7)
+- [**Шаг 7.** Машинное обучение](https://github.com/sashagrr/project_wine#%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%BE%D0%B5-%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)
+
 ### Команда
 - Гравер Александра 
 - Масловская Анастасия
